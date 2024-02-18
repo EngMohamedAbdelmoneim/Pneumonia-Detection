@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978068510436",
+    "project_id": "pnemoniadetection",
+    "storage_bucket": "pnemoniadetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978068510436:android:8a345f982e3cbc5d037ef1",
+        "android_client_info": {
+          "package_name": "com.example.xai_pneumonia_detect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978068510436-h3nqbcjqjona26q696gv0vt0mp7sdqe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO22U4jPNfI8UCVoo91_AmTlZg96P2d78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978068510436-h3nqbcjqjona26q696gv0vt0mp7sdqe9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
